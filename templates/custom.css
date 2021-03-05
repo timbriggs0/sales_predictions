@@ -1,0 +1,9 @@
+body {
+    min-width: fit-content;
+    /* padding: 0; */
+    margin: 0;
+}
+
+.heading {
+    background-color: #000;
+}
