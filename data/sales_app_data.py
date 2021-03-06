@@ -14,3 +14,6 @@ from bokeh.layouts import row, gridplot, layout #column
 from bokeh.io import output_file, show, save
 from bokeh.themes import Theme
 
+df = pd.read_csv('sales_predictions_clean.csv')
+source = ColumnDataSource(df)
+
