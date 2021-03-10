@@ -30,7 +30,9 @@ In the end my goal was to develop a ML model that would help the companies staff
 Pandas, MatPlotLib, Bokeh, and SKLearn.
 
 ## Process
-You can see a scroll through of the index.html <a href='Index_html.mkv'>HERE</a>
+You can see a scroll through of the index.html <a href='index.html'>HERE</a>
+
+#### Plotting The Item Sales in Outlets
 <img src='plots\Item_Sales_Outlets.png'>
 
 ## Resources
