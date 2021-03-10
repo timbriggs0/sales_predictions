@@ -10,21 +10,21 @@ In the end my goal was to develop a ML model that would help the companies staff
 |--main.ipynb</br>
 |--main_model.ipynb</br>
 |--templates</br>
-    |--index.html</br>
-    |--custom.css</br>
-    |--theme.yaml</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--index.html</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--custom.css</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--theme.yaml</br>
 |--plots</br>
-    |--a list of plots in html and png exported from index.html and main.ipynb</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--a list of plots in html and png exported from index.html and main.ipynb</br>
 |--data</br>
-    |--sql</br>
-        |--The start of a SQL database for new and old product reporting.</br>
-    |--Data_Cleaning.ipynb</br>
-    |--outlet_item_plots.ipynb</br>
-    |--Outlet_Sales.ipynb</br>
-    |--outlet_totalsales.ipynb</br>
-    |--sales_app_data.py</br>
-    |--sales_predictions.csv</br>
-    |--sales_predictions_clean.csv</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--sql</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--The start of a SQL database for new and old product reporting.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Data_Cleaning.ipynb</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--outlet_item_plots.ipynb</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Outlet_Sales.ipynb</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--outlet_totalsales.ipynb</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--sales_app_data.py</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--sales_predictions.csv</br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--sales_predictions_clean.csv</br>
 
 ## Tools Used
 Pandas, MatPlotLib, Bokeh, and SKLearn.
