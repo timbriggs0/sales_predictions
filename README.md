@@ -4,8 +4,10 @@
 The Sales Predictions project is my first exploration into data science. I was given a data set of product charactaristics and sales in a number out outlets. The goal was to create a prediction method for future sales. 
 The concept of future sales was not difined and given my interest in product development and industrial design i chose to use this as an opportunity to explore new market opportunities as well the concept of canabalism of sales. 
 In the end my goal was to develop a ML model that would help the companies staff identify new products and predict their sales potential based on known charactaristics of any product.
-<img src='plots\GG_LOGIN.png'>
+
+#### Dashboard: INITIAL CONCEPT
 <img src='plots\GG_DASHBOARD_001.png'>
+Following the overview, my goal of this project was to create a new product model that would help the client assess new products and better understand their sales potential vs the existing products in their stores.
 
 ## File Organization
 |--README.md</br>
