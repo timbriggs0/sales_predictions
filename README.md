@@ -1,4 +1,4 @@
-# sales_predictions: THE GOOD GROCERY
+# THE GOOD GROCERY: New Product Sales Predictions
 
 ## Overview
 The Sales Predictions project is my first exploration into data science. I was given a data set of product charactaristics and sales in a number out outlets. The goal was to create a prediction method for future sales. 
