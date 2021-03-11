@@ -33,11 +33,15 @@ Following the overview, my goal of this project was to create a new product mode
 ## Tools Used
 Pandas, MatPlotLib, Bokeh, and SKLearn.
 
-## Process
+## The Data Cleaning + Exploration
 You can see a scroll through of the index.html <a href='index.html'>HERE</a>
 
 #### Plotting The Item Sales in Outlets
 <img src='plots\Item_Sales_Outlets.png'>
+
+## Creating the Prediction Model
+All this work can be found in the main_model.ipynb.
+I will update this section with images and more text soon.
 
 ## Resources
 <li>https://medium.com/y-data-stories/python-and-bokeh-part-iii-tutorial-116aa2e873eb
